@@ -4,5 +4,7 @@
 </p><p id="d8096ffb-725e-4430-a86a-69d19c284a53" class="">🧰 Contact me: </p><ul id="6451a69f-b960-415c-9941-064d50a1d0eb" class="bulleted-list"><li style="list-style-type:disc">Discord : iMax#0705</li></ul><p id="4d6bc64f-c6be-450c-9bbc-5b139dbc02b5" class="">
 </p><h2 id="cb2a6415-106d-4679-991e-0c0e2d2c1886" class="">📊GitHub Stats</h2><hr id="49e45ea8-1f5b-4b47-974e-2adaf50f23d2"/><p id="8588115c-857e-470f-8301-80100ff88cfc" class="">
 </p><p id="459c3ba5-2e88-48d9-b5df-dc8ef662f570" class="">
-</p><figure id="a6db7a40-d945-4e45-8982-6b62f3fd2a03" class="image"><a href="https://github-readme-stats.vercel.app/api?username=iMax-git&amp;show_icons=true&amp;&amp;theme=tokyonight"><img style="width:432px" src="https://github-readme-stats.vercel.app/api?username=iMax-git&amp;show_icons=true&amp;&amp;theme=tokyonight"/></a></figure><figure id="111c18b1-97c5-4928-8366-0f5121b0326b" class="image"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iMax-git&amp;langs_count=8&amp;theme=tokyonight"><img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMax-git&amp;langs_count=8&amp;theme=tokyonight"/></a></figure><p id="776eadd3-a5ac-4596-8826-31c580c65c84" class="">
+</p>
+  <img style="width:432px" src="https://github-readme-stats.vercel.app/api?username=iMax-git&amp;show_icons=true&amp;&amp;theme=tokyonight"/>
+  <img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMax-git&amp;langs_count=8&amp;theme=tokyonight"/>
 </p></div></article></body></html>
