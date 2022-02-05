@@ -5,6 +5,9 @@
 </p><h2 id="cb2a6415-106d-4679-991e-0c0e2d2c1886" class="">📊GitHub Stats</h2><hr id="49e45ea8-1f5b-4b47-974e-2adaf50f23d2"/><p id="8588115c-857e-470f-8301-80100ff88cfc" class="">
 </p><p id="459c3ba5-2e88-48d9-b5df-dc8ef662f570" class="">
 </p>
+  <div class="display: flex; flex-direction: column; margin: 0 30%;">
   <img style="width:432px" src="https://github-readme-stats.vercel.app/api?username=iMax-git&amp;show_icons=true&amp;&amp;theme=tokyonight"/>
+    <hr/>
   <img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMax-git&amp;langs_count=8&amp;theme=tokyonight"/>
+  </div>
 </p></div></article></body></html>
